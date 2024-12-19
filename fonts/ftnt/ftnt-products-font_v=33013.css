@@ -1,0 +1,466 @@
+/*
+  Icon Font: ftnt-products-font
+*/
+
+@font-face {
+  font-family: "ftnt-products-font";
+  src: url("ftnt-products-font_d3b555120b972755d40c5cb14427ad75.eot");
+  src: url("ftnt-products-font_d3b555120b972755d40c5cb14427ad75.eot#iefix") format("embedded-opentype"),
+       url("ftnt-products-font_d3b555120b972755d40c5cb14427ad75.woff2") format("woff2"),
+       url("ftnt-products-font_d3b555120b972755d40c5cb14427ad75.woff") format("woff"),
+       url("ftnt-products-font_d3b555120b972755d40c5cb14427ad75.ttf") format("truetype"),
+       url("ftnt-products-font_d3b555120b972755d40c5cb14427ad75.svg#ftnt-products-font") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+@font-face {
+    font-family: "ftnt-products-font";
+    src: url("ftnt-products-font_d3b555120b972755d40c5cb14427ad75.svg#ftnt-products-font") format("svg");
+}
+}
+
+[data-icon]:before {
+  content: attr(data-icon);
+}
+
+.ftnt-product-icon:before {
+  display: inline-block;
+  font-family: "ftnt-products-font";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  content: "\f101";
+}
+
+.ftnt-product-cloud:before {
+  content: "\f100";
+}
+
+.ftnt-product-container-fortios:before {
+  content: "\f15c";
+}
+
+.ftnt-product-document-library:before {
+  content: "\f101";
+}
+
+.ftnt-product-fabric-agent:before {
+  content: "\f102";
+}
+
+.ftnt-product-fgaas-cloud:before {
+  content: "\f160";
+}
+
+.ftnt-product-fortiabp:before {
+  content: "\f103";
+}
+
+.ftnt-product-fortiadc:before {
+  content: "\f104";
+}
+
+.ftnt-product-fortiai:before {
+  content: "\f105";
+}
+
+.ftnt-product-fortianalyzer:before {
+  content: "\f106";
+}
+
+.ftnt-product-fortianalyzer-cloud:before {
+  content: "\f107";
+}
+
+.ftnt-product-fortiap:before {
+  content: "\f108";
+}
+
+.ftnt-product-fortiap-cloud:before {
+  content: "\f109";
+}
+
+.ftnt-product-fortiap-u-series:before {
+  content: "\f10a";
+}
+
+.ftnt-product-fortiap-utm:before {
+  content: "\f10b";
+}
+
+.ftnt-product-fortiappsec-cloud:before {
+  content: "\f163";
+}
+
+.ftnt-product-fortiauthenticator:before {
+  content: "\f10c";
+}
+
+.ftnt-product-forticamera:before {
+  content: "\f10d";
+}
+
+.ftnt-product-forticamera-cloud:before {
+  content: "\f10e";
+}
+
+.ftnt-product-forticare:before {
+  content: "\f10f";
+}
+
+.ftnt-product-forticare-elite-monitoring:before {
+  content: "\f110";
+}
+
+.ftnt-product-forticasb:before {
+  content: "\f111";
+}
+
+.ftnt-product-forticlient:before {
+  content: "\f112";
+}
+
+.ftnt-product-forticlient-cloud:before {
+  content: "\f113";
+}
+
+.ftnt-product-forticlient-ems:before {
+  content: "\f114";
+}
+
+.ftnt-product-forticloud:before {
+  content: "\f115";
+}
+
+.ftnt-product-forticloud-premium:before {
+  content: "\f116";
+}
+
+.ftnt-product-forticloud-socaas:before {
+  content: "\f117";
+}
+
+.ftnt-product-forticsp:before {
+  content: "\f164";
+}
+
+.ftnt-product-forticsp-agent:before {
+  content: "\f165";
+}
+
+.ftnt-product-forticsp-manager:before {
+  content: "\f166";
+}
+
+.ftnt-product-forticwp:before {
+  content: "\f118";
+}
+
+.ftnt-product-fortiddos:before {
+  content: "\f119";
+}
+
+.ftnt-product-fortideceptor:before {
+  content: "\f11a";
+}
+
+.ftnt-product-fortidlp:before {
+  content: "\f167";
+}
+
+.ftnt-product-fortidlp-agent:before {
+  content: "\f168";
+}
+
+.ftnt-product-fortidlp-policies:before {
+  content: "\f169";
+}
+
+.ftnt-product-fortiedr:before {
+  content: "\f11b";
+}
+
+.ftnt-product-fortiextender:before {
+  content: "\f11c";
+}
+
+.ftnt-product-fortifone:before {
+  content: "\f11d";
+}
+
+.ftnt-product-fortigate:before {
+  content: "\f11e";
+}
+
+.ftnt-product-fortigate-as-a-service:before {
+  content: "\f15e";
+}
+
+.ftnt-product-fortigate-cloud:before {
+  content: "\f11f";
+}
+
+.ftnt-product-fortigate-cnf:before {
+  content: "\f120";
+}
+
+.ftnt-product-fortigate-private-cloud:before {
+  content: "\f121";
+}
+
+.ftnt-product-fortigate-public-cloud:before {
+  content: "\f122";
+}
+
+.ftnt-product-fortigate-vm:before {
+  content: "\f123";
+}
+
+.ftnt-product-fortigslb:before {
+  content: "\f124";
+}
+
+.ftnt-product-fortiguard:before {
+  content: "\f125";
+}
+
+.ftnt-product-fortiguard-cloud:before {
+  content: "\f126";
+}
+
+.ftnt-product-fortiinsight:before {
+  content: "\f127";
+}
+
+.ftnt-product-fortiinsight-cloud:before {
+  content: "\f128";
+}
+
+.ftnt-product-fortiisolator:before {
+  content: "\f129";
+}
+
+.ftnt-product-fortilan-cloud:before {
+  content: "\f12a";
+}
+
+.ftnt-product-fortimail:before {
+  content: "\f12b";
+}
+
+.ftnt-product-fortimail-cloud:before {
+  content: "\f12c";
+}
+
+.ftnt-product-fortimanager:before {
+  content: "\f12d";
+}
+
+.ftnt-product-fortimanager-cloud:before {
+  content: "\f12e";
+}
+
+.ftnt-product-fortimom:before {
+  content: "\f12f";
+}
+
+.ftnt-product-fortimonitor:before {
+  content: "\f130";
+}
+
+.ftnt-product-fortinac:before {
+  content: "\f131";
+}
+
+.ftnt-product-fortinac-f:before {
+  content: "\f132";
+}
+
+.ftnt-product-fortindr:before {
+  content: "\f133";
+}
+
+.ftnt-product-fortindr-cloud:before {
+  content: "\f134";
+}
+
+.ftnt-product-fortinextdlp:before {
+  content: "\f161";
+}
+
+.ftnt-product-fortipam:before {
+  content: "\f135";
+}
+
+.ftnt-product-fortipolicy:before {
+  content: "\f136";
+}
+
+.ftnt-product-fortiportal:before {
+  content: "\f15d";
+}
+
+.ftnt-product-fortiproxy:before {
+  content: "\f137";
+}
+
+.ftnt-product-fortirecon:before {
+  content: "\f138";
+}
+
+.ftnt-product-fortirecorder:before {
+  content: "\f139";
+}
+
+.ftnt-product-fortisandbox:before {
+  content: "\f13a";
+}
+
+.ftnt-product-fortisandbox-cloud:before {
+  content: "\f13b";
+}
+
+.ftnt-product-fortisase:before {
+  content: "\f13c";
+}
+
+.ftnt-product-fortisase-alt:before {
+  content: "\f13d";
+}
+
+.ftnt-product-fortisiem:before {
+  content: "\f13e";
+}
+
+.ftnt-product-fortisiem-cloud:before {
+  content: "\f15f";
+}
+
+.ftnt-product-fortisoar:before {
+  content: "\f13f";
+}
+
+.ftnt-product-fortisra:before {
+  content: "\f140";
+}
+
+.ftnt-product-fortiswitch:before {
+  content: "\f141";
+}
+
+.ftnt-product-fortiswitch-alt:before {
+  content: "\f142";
+}
+
+.ftnt-product-fortiswitch-ha:before {
+  content: "\f143";
+}
+
+.ftnt-product-fortitester:before {
+  content: "\f144";
+}
+
+.ftnt-product-fortitoken:before {
+  content: "\f145";
+}
+
+.ftnt-product-fortitoken-cloud:before {
+  content: "\f146";
+}
+
+.ftnt-product-fortitrust-id:before {
+  content: "\f147";
+}
+
+.ftnt-product-fortivoice:before {
+  content: "\f148";
+}
+
+.ftnt-product-fortivoice-cloud:before {
+  content: "\f149";
+}
+
+.ftnt-product-fortiweb:before {
+  content: "\f14a";
+}
+
+.ftnt-product-fortiweb-cloud:before {
+  content: "\f14b";
+}
+
+.ftnt-product-fortiwifi:before {
+  content: "\f14c";
+}
+
+.ftnt-product-fortiztp:before {
+  content: "\f14d";
+}
+
+.ftnt-product-lacework-forticnapp:before {
+  content: "\f162";
+}
+
+.ftnt-product-managed-fortigate-service:before {
+  content: "\f14e";
+}
+
+.ftnt-product-mssp:before {
+  content: "\f14f";
+}
+
+.ftnt-product-operational-technology:before {
+  content: "\f150";
+}
+
+.ftnt-product-overlay-as-a-service:before {
+  content: "\f151";
+}
+
+.ftnt-product-private-cloud:before {
+  content: "\f152";
+}
+
+.ftnt-product-public-cloud:before {
+  content: "\f153";
+}
+
+.ftnt-product-sdwan-orchestrator:before {
+  content: "\f154";
+}
+
+.ftnt-product-secure-lan-access:before {
+  content: "\f155";
+}
+
+.ftnt-product-secure-sd-wan:before {
+  content: "\f156";
+}
+
+.ftnt-product-security-fabric:before {
+  content: "\f157";
+}
+
+.ftnt-product-teleworking:before {
+  content: "\f158";
+}
+
+.ftnt-product-wireless-manager:before {
+  content: "\f159";
+}
+
+.ftnt-product-zero-trust-network-access:before {
+  content: "\f15a";
+}
+
+.ftnt-product-ztna:before {
+  content: "\f15b";
+}
